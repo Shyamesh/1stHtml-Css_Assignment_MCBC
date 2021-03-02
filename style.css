@@ -1,12 +1,20 @@
+/*universal selector are used */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+
+/* the whole body will appear in the selected color*/
+
 body {
     background-color: #d9dcd6;
 }
+
+
+/* setting of the header including font -family, color and padding and border*/
 
 .header {
     padding: 20px;
@@ -14,6 +22,9 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+
+
+/* this is the main headding marked with h1*/
 
 .header h1 {
     display: inline-block;
@@ -24,6 +35,9 @@ body {
     color: #d9dcd6;
 }
 
+
+/*managing the header section where the main points will appear in a list*/
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,9 +46,15 @@ body {
     font-size: 20px;
 }
 
+
+/* no url for header div as content are originally created and defult list style type are selected*/
+
 .header div ul {
     list-style-type: none;
 }
+
+
+/* define header display and magin for the header section */
 
 .header div ul li {
     display: inline-block;
@@ -50,6 +70,9 @@ p {
     font-size: 16px;
 }
 
+
+/* this is the set up for cover photo of the website */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +81,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+
+/* requesting to display the content in left and right alternatively */
 
 .float-left {
     float: left;
@@ -69,11 +95,26 @@ p {
     margin-left: 25px;
 }
 
+
+/* as there are multiple sections in the the sidth are used 75% and 25% */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+
+/* THE class benefits are set to display the following;
+* margin of right side 
+* padding
+* clarity
+* flot to right
+* width to use 
+* height to cover
+* font-family to use and 
+* backgorund color 
+*/
 
 .benefits {
     margin-right: 20px;
@@ -85,6 +126,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+
+/* image and content set in the web page */
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -161,6 +205,9 @@ p {
     color: #ffffff;
 }
 
+
+/* image  height and margin setting */
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -188,6 +235,9 @@ p {
     font-size: 36px;
 }
 
+
+/* setting upmthe fotter of the web page */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +245,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h3 {
     font-size: 20px;
 }
