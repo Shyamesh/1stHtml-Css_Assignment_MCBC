@@ -1,6 +1,8 @@
 # 1stHtml-Css_Assignment_MCBC
-Project : Refactorate 
+
+
 Project : Refactoring
+
 Title : Horiseon 
 
 Initially 
@@ -9,6 +11,7 @@ I have
 -	Deployed to check the current status of the page 
 -	Gone through index.html file
 -	Observed style.css file
+
 While working with Index.html
 -	Changed the  title ‘Website’ to ‘ Horiseon’
 -	Added sections tags 
@@ -22,6 +25,7 @@ While working with Index.html
 -	committed in repo
 -	pushed the files 
 -	activated the web link
+
 Changes made in general
 In index.html 
 -	changed the title
@@ -31,11 +35,13 @@ In index.html
 -	delete clogging img tag which is not necessary as it is an independent tag
 -	changed heading for class content and footer
 -	added both single line and multi-lines comments 
+
 In Style.css 
 -	added both single line and multi-line comments
 -	checked  the file 
 -	deployed to web indicating variation
 -	added and deleted as per the needs 
+
 Screenshots
  
 demonstrate the effect of heading changes 
@@ -45,4 +51,3 @@ demonstrate the effect of heading changes
 
 
 
-pu
