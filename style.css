@@ -19,7 +19,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #97a0a5;
     color: #ffffff;
 }
 
@@ -86,7 +86,7 @@ p {
 /* requesting to display the content in left and right alternatively */
 
 .float-left {
-    float: left;
+    float: right;
     margin-right: 25px;
 }
 
